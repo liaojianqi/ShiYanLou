@@ -1,7 +1,7 @@
 /*
- * 变长数组
+ * 线性表接口
  * */
-public interface ArrayListInterface {
+public interface ListInterface {
     /*添加元素*/
     void pushBack(int num);
     /*删除第i个元素*/

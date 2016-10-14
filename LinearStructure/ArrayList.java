@@ -1,4 +1,4 @@
-public class ArrayList implements ArrayListInterface{
+public class ArrayList implements ListInterface{
     public static final int INDEXOUTOFRANGE = -1;
     private int allSize = 0;       //实际内存长度
     private int usedSize = 0;      //当前已经使用的长度

@@ -5,7 +5,7 @@
 ##二、抽象数据类型
 ##三、接口设计
 ```
-public interface ArrayListInterface {
+public interface ListInterface {
     /*添加元素*/
     void pushBack(int num);
     /*删除第i个元素*/
