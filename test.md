@@ -6,6 +6,7 @@ Fiora是一款web聊天应用. 使用node.js, koa和react编写.
 ##二、功能
 ---
 演示地址：[fiora](http://fiora.suisuijiang.com/)
+
 1. 创建用户, *~~创建群组, 加入群组, 私聊,~~* 群聊
 
 2. 文本, 图片, 代码, url等多种类型消息
